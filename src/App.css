@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+.conten-card {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.header_content {
+  display: flex;
+  align-items: center;
+}
+.date_status_content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.profile_content {
+  margin-top: 4px;
+  display: flex;
+  align-items: center;
+}
+h5 {
+  margin: 8px 3px 8px 3px;
+}
